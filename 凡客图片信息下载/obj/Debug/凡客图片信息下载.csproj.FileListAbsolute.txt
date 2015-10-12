@@ -1,0 +1,9 @@
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\bin\Debug\凡客图片信息下载.exe.config
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\bin\Debug\凡客图片信息下载.exe
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\bin\Debug\凡客图片信息下载.pdb
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\obj\Debug\凡客图片信息下载.csprojResolveAssemblyReference.cache
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\obj\Debug\凡客图片信息下载.Form1.resources
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\obj\Debug\凡客图片信息下载.Properties.Resources.resources
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\obj\Debug\凡客图片信息下载.csproj.GenerateResource.Cache
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\obj\Debug\凡客图片信息下载.exe
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\凡客图片信息下载\凡客图片信息下载\obj\Debug\凡客图片信息下载.pdb
